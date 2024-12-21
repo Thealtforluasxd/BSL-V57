@@ -1,4 +1,4 @@
-serverAddress = ("192.168.1.121", 9339)
+serverAddress = ("192.168.1.103", 9339)
 
 import socket
 from Heart.Connection import Connection
